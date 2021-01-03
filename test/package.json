@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "esbuild-serve"
+    },
+    "devDependencies": {
+        "@hyrious/esbuild-serve": "^0.1.5",
+        "@types/react": "^17.0.0",
+        "@types/react-dom": "^17.0.0"
+    }
+}
